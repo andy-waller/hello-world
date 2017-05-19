@@ -1,2 +1,3 @@
 # hello-world
-Basic theme upon which internal-use websites are built.
+
+This is the best code in the world. Believe it!
